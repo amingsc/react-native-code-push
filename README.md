@@ -4,3 +4,5 @@
 因为自定义CodePushServer(https://github.com/lisong/code-push-server)未提供更新，仅支持客户端v6.3版本
 
 2.克隆是为了修复获取ANDROID_ID会违背隐私政策的问题
+
+3.支持RN0.72
