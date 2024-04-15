@@ -5,4 +5,4 @@
 
 2.克隆是为了修复获取ANDROID_ID会违背隐私政策的问题
 
-3.支持RN0.72
+3.支持RN0.72：参见https://github.com/microsoft/react-native-code-push/issues/2418#issuecomment-1381463162
